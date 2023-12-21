@@ -20,7 +20,7 @@ figure {
     display: flex;
     justify-content: center;
     width: 70%;
-    min-width: 384px;
+    min-width: 360px;
     height: auto;
     padding: 0 8px 40px 8px;
     margin: 0;
