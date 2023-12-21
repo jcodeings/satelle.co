@@ -54,5 +54,6 @@ a {
     /* Adjust breakpoint as needed */
     .element {
         padding-top: 180px; /* Add padding here */
+        padding-bottom: 0;
     }
 }
